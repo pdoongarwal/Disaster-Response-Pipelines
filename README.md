@@ -25,7 +25,7 @@ Packages used:
 - sklearn
 - joblib
 
-The code should run using Python versions 3.\*.
+All packages can be installed using pip.
 
 ## Project Motivation <a name="motivation"></a>
 
